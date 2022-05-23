@@ -1,0 +1,24 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.header {
+  width: 100vw;
+  height: auto;
+  padding: 3rem;
+  background-color: #2573bb;
+}
+/*# sourceMappingURL=styles.css.map */
